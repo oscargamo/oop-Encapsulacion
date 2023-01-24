@@ -1,0 +1,7 @@
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\bin\Debug\OOP-Encapsulacion.exe.config
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\bin\Debug\OOP-Encapsulacion.exe
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\bin\Debug\OOP-Encapsulacion.pdb
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\obj\Debug\OOP-Encapsulacion.csproj.AssemblyReference.cache
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\obj\Debug\OOP-Encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\obj\Debug\OOP-Encapsulacion.exe
+C:\Users\Pc-Game\Documents\Visual Studio 2019\Projects\Fundamentos de Programacion\OOP-Encapsulacion\OOP-Encapsulacion\obj\Debug\OOP-Encapsulacion.pdb
